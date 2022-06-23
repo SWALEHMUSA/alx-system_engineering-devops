@@ -8,3 +8,4 @@ This is basic shell
 6. a script that creates a directory
 7. Move the file
 8. Delete the file
+9. Delete the directory
