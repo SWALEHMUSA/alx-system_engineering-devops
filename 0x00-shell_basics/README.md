@@ -4,3 +4,4 @@ This is basic shell
 2. a script that changes the working directory to the user’s home directory.
 3. Display current directory contents in a long format
 4. Display current directory contents, including hidden files (starting with .).
+5. Display current directory contents.
