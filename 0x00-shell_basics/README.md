@@ -5,3 +5,4 @@ This is basic shell
 3. Display current directory contents in a long format
 4. Display current directory contents, including hidden files (starting with .).
 5. Display current directory contents.
+6. a script that creates a directory
