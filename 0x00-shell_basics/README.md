@@ -7,3 +7,4 @@ This is basic shell
 5. Display current directory contents.
 6. a script that creates a directory
 7. Move the file
+8. Delete the file
