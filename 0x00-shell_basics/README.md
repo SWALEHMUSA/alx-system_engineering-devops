@@ -10,3 +10,4 @@ This is basic shell
 8. Delete the file
 9. Delete the directory
 10. a script that changes the working directory to the previous one.
+11. a script that lists all files
