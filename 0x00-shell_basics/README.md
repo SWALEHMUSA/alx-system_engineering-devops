@@ -11,4 +11,5 @@ This is basic shell
 9. Delete the directory
 10. a script that changes the working directory to the previous one.
 11. a script that lists all files
-12. a script that prints the type of the file named 
+12. a script that prints the type of the file named
+13. Create a symbolic link 
