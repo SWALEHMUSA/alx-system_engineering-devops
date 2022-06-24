@@ -13,4 +13,5 @@ This is basic shell
 11. a script that lists all files
 12. a script that prints the type of the file named
 13. Create a symbolic link
-14. a script that copies all the HTML files from the current working directory 
+14. a script that copies all the HTML files from the current working directory
+19. a magic file 
